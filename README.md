@@ -1,2 +1,2 @@
 # osu
-osu skins
+osu skins to use
